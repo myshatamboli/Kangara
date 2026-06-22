@@ -2,7 +2,7 @@
 Femtech venture developing intelligent wearable technology to support maternal wellbeing and pregnancy monitoring.
 # Why "Kangara"?
 
-The name Kangara is inspired by the kangaroo — a symbol of protection, nurturing, and care.
+The name Kangara is inspired by the kangaroo: a symbol of protection, closeness, nurturing, and care.
 
 Just as a kangaroo carries and safeguards its joey in a pouch during its most vulnerable stages of development, Kangara is built around the idea of supporting and protecting both mother and baby throughout pregnancy.
 
@@ -148,3 +148,5 @@ Entrepreneur, student leader, and builder passionate about leveraging innovation
 ---
 
 *"Every mother deserves confidence, reassurance, and support throughout her pregnancy journey."*
+
+Link: https://kangara-55dg.vercel.app/
